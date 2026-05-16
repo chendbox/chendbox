@@ -27,9 +27,7 @@
 
 ---
 
-## Featured Projects
-
-## Featured Projects
+## Projects
 
 - **ml-infrastructure-service** *(private)* — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
 
