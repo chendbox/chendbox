@@ -1,1 +1,67 @@
-## Hi, I’m Dan 👋
+<h1 align="center">Hi there, I'm Daniel 👋</h1>
+
+<p align="center">
+  <b>Backend / AI Infrastructure Engineer</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-1f2937?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Infra-0f766e?style=flat" />
+  <img src="https://img.shields.io/badge/Applied%20ML-7c3aed?style=flat" />
+  <img src="https://img.shields.io/badge/Data%20Systems-b45309?style=flat" />
+  <img src="https://img.shields.io/badge/Agent%20Workflows-2563eb?style=flat" />
+  <img src="https://img.shields.io/badge/MLOps-0a7ea4?style=flat" />
+</p>
+
+---
+
+## Tech Stack
+
+- **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+- **ML / AI** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+- **Backend / Data** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D92C20?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=flat&logo=githubactions&logoColor=white)
+
+- **Infra / Platform** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## Featured Projects
+
+<p>
+  <a href="https://github.com/chendbox/ml-infrastructure-service">
+    <img src="https://img.shields.io/badge/ml--infrastructure--service-0f766e?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/chendbox/applied-ai-lab">
+    <img src="https://img.shields.io/badge/applied--ai--lab-2563eb?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/chendbox/attnforge">
+    <img src="https://img.shields.io/badge/attnforge-7c3aed?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/chendbox/Ecommerce_Recommender_System">
+    <img src="https://img.shields.io/badge/recommender-b45309?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chendbox&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chendbox&layout=compact&hide_border=true&theme=default" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://linkedin.com/in/dchen-0xc8">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chendbox@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
