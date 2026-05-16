@@ -29,28 +29,23 @@
 
 ## Featured Projects
 
-<p>
-  <a href="https://github.com/chendbox/ml-infrastructure-service">
-    <img src="https://img.shields.io/badge/ml--infrastructure--service-0f766e?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/chendbox/applied-ai-lab">
-    <img src="https://img.shields.io/badge/applied--ai--lab-2563eb?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/chendbox/attnforge">
-    <img src="https://img.shields.io/badge/attnforge-7c3aed?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/chendbox/Ecommerce_Recommender_System">
-    <img src="https://img.shields.io/badge/recommender-b45309?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+## Featured Projects
+
+- **ml-infrastructure-service** *(private)* — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
+
+- **attnforge** *(private)* — Implemented FlashAttention-1 CUDA kernels for LLM prefill and decode, integrated them into a production-grade inference engine with pytest CI, and validated correctness against PyTorch SDPA with numerical agreement within **1e-6** on **H200**.
+
+- [**applied-ai-lab**](https://github.com/chendbox/applied-ai-lab) — Organized a hands-on applied AI seminar repository covering prompting, tools, agent workflows, and RAG patterns across four topic areas.
+
+- [**Ecommerce_Recommender_System**](https://github.com/chendbox/Ecommerce_Recommender_System) — Built an e-commerce recommender system with feature engineering and multiple ranking/modeling approaches, including LR, GBDT, and wide/deep methods on large-scale user behavior data.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chendbox&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chendbox&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chendbox&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chendbox&layout=compact" />
 </p>
 
 ---
