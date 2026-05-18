@@ -39,15 +39,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chendbox&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chendbox&layout=compact" />
-</p>
-
----
-
 ## Connect
 
 <p>
