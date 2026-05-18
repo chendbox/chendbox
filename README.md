@@ -29,9 +29,9 @@
 
 ## Projects
 
-- **ml-infrastructure-service** *(private)* — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
+- **ml-infrastructure-service** — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
 
-- **attnforge** *(private)* — Implemented FlashAttention-1 CUDA kernels for LLM prefill and decode, integrated them into a production-grade inference engine with pytest CI, and validated correctness against PyTorch SDPA with numerical agreement within **1e-6** on **H200**.
+- **attnforge** — Implemented FlashAttention-1 CUDA kernels for LLM prefill and decode, integrated them into a production-grade inference engine with pytest CI, and validated correctness against PyTorch SDPA with numerical agreement within **1e-6** on **H200**.
 
 - [**applied-ai-lab**](https://github.com/chendbox/applied-ai-lab) — Organized a hands-on applied AI seminar repository covering prompting, tools, agent workflows, and RAG patterns across four topic areas.
 
