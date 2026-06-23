@@ -31,7 +31,7 @@
 
 - **ml-infrastructure-service** — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
 
-- **AttnForge** — Implemented FlashAttention-style CUDA kernels for LLM prefill and single-token decode, integrated them into a benchmarkable inference runtime, and validated correctness against PyTorch SDPA on NVIDIA **H100** with dedicated tests for numerical agreement, causal masking, and KV-cache semantics.
+- [**AttnForge**](https://github.com/chendbox/AttnForge-public) — Built and benchmarked custom CUDA attention kernels for LLM prefill and decode, integrated them into a lightweight inference runtime, and established a validated baseline against PyTorch SDPA on NVIDIA H100 across context lengths 512-4096.
 
 - [**applied-ai-lab**](https://github.com/chendbox/applied-ai-lab) — Organized a hands-on applied AI seminar repository covering prompting, tools, agent workflows, and RAG patterns across four topic areas.
 
