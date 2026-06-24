@@ -29,7 +29,7 @@
 
 ## Projects
 
-- **ml-infrastructure-service** — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
+- [**MLIS**](https://github.com/chendbox/mlis) — Built a distributed AI platform with control/data plane separation, admission control, workload isolation, and resource-aware scheduling for production ML workloads.
 
 - [**AttnForge**](https://github.com/chendbox/AttnForge-public) — Built and benchmarked custom CUDA attention kernels for LLM prefill and decode, integrated them into a lightweight inference runtime, and established a validated baseline against PyTorch SDPA on NVIDIA H100 across context lengths 512-4096.
 
