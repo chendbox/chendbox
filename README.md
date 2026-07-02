@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daniel 👋</h1>
 
 <p align="center">
-  <b>Backend / AI Infrastructure Engineer</b>
+  <b>AI/ML Infrastructure Engineer</b>
 </p>
 
 <p align="center">
