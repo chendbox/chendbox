@@ -42,9 +42,6 @@
 ## Connect
 
 <p>
-  <a href="https://linkedin.com/in/dchen-0xc8">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:chendbox@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
